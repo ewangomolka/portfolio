@@ -1,19 +1,23 @@
 {
   "files": {
     "main.css": "/G36_deploy_portfolio/static/css/main.fcd004e5.css",
-    "main.js": "/G36_deploy_portfolio/static/js/main.b22961f2.js",
+    "main.js": "/G36_deploy_portfolio/static/js/main.7aa55a08.js",
     "static/js/787.1ed0c42c.chunk.js": "/G36_deploy_portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/pokemorty.png": "/G36_deploy_portfolio/static/media/pokemorty.b0f39715b9ddc711fdfe.png",
     "static/media/screenshot_Python.png": "/G36_deploy_portfolio/static/media/screenshot_Python.5745999f954b784bba35.png",
+    "static/media/skate.jpeg": "/G36_deploy_portfolio/static/media/skate.5ae716cf0714f075fa58.jpeg",
+    "static/media/mixology.jpeg": "/G36_deploy_portfolio/static/media/mixology.2d3f545c0a38d1f03bf0.jpeg",
+    "static/media/sleep.jpeg": "/G36_deploy_portfolio/static/media/sleep.6f7ec25d6435bc051793.jpeg",
+    "static/media/travel.jpg": "/G36_deploy_portfolio/static/media/travel.3a1aaec3a5065d40a85e.jpg",
     "static/media/headshot.jpg": "/G36_deploy_portfolio/static/media/headshot.419c53a546f0924fac53.jpg",
     "static/media/placeholder.jpeg": "/G36_deploy_portfolio/static/media/placeholder.3c0a422b9d39f22e1be7.jpeg",
     "index.html": "/G36_deploy_portfolio/index.html",
     "main.fcd004e5.css.map": "/G36_deploy_portfolio/static/css/main.fcd004e5.css.map",
-    "main.b22961f2.js.map": "/G36_deploy_portfolio/static/js/main.b22961f2.js.map",
+    "main.7aa55a08.js.map": "/G36_deploy_portfolio/static/js/main.7aa55a08.js.map",
     "787.1ed0c42c.chunk.js.map": "/G36_deploy_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd004e5.css",
-    "static/js/main.b22961f2.js"
+    "static/js/main.7aa55a08.js"
   ]
 }
