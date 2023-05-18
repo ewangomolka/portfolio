@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/G36_deploy_portfolio/static/css/main.fcd004e5.css",
-    "main.js": "/G36_deploy_portfolio/static/js/main.c12af215.js",
+    "main.js": "/G36_deploy_portfolio/static/js/main.982487ba.js",
     "static/js/787.1ed0c42c.chunk.js": "/G36_deploy_portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/pokemorty.png": "/G36_deploy_portfolio/static/media/pokemorty.b0f39715b9ddc711fdfe.png",
     "static/media/screenshot_Python.png": "/G36_deploy_portfolio/static/media/screenshot_Python.5745999f954b784bba35.png",
@@ -13,11 +13,11 @@
     "static/media/placeholder.jpeg": "/G36_deploy_portfolio/static/media/placeholder.3c0a422b9d39f22e1be7.jpeg",
     "index.html": "/G36_deploy_portfolio/index.html",
     "main.fcd004e5.css.map": "/G36_deploy_portfolio/static/css/main.fcd004e5.css.map",
-    "main.c12af215.js.map": "/G36_deploy_portfolio/static/js/main.c12af215.js.map",
+    "main.982487ba.js.map": "/G36_deploy_portfolio/static/js/main.982487ba.js.map",
     "787.1ed0c42c.chunk.js.map": "/G36_deploy_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd004e5.css",
-    "static/js/main.c12af215.js"
+    "static/js/main.982487ba.js"
   ]
 }
