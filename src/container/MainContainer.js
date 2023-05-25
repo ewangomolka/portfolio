@@ -16,7 +16,7 @@ import sleep from './sleep.jpeg';
 import mixology from './mixology.jpeg';
 import travel from './travel.jpg';
 import headshot from '../components/headshot.jpg';
-import Make_Meme_Better from '../components/Make_Meme_Better.png';
+import Make_Meme_Better from '../container/Make_Meme_Better.png';
 
 
 const MainContainer = () => {
