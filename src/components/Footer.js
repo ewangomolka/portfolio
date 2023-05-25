@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 const Footer = () => {
 
@@ -10,6 +10,8 @@ const Footer = () => {
 
     return ( 
         <Foot>
+            <h4>Contact: 07545329211</h4>
+            <h4>Email: ewangomolka@gmail.com</h4>
         </Foot>
      );
 }

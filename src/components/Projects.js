@@ -44,7 +44,7 @@ const Projects = ({projects}) => {
     `
 
     const projectList = projects.map((project, index) => {
-        return <Li key={index}><a href={project.link}/><Image src={project.image}/><h4>{project.name}</h4><p>{project.about}</p></Li>
+        return <Li key={index}><a href={project.link}><Image src={project.image}/></a><h4>{project.name}</h4><p>{project.about}</p></Li>
     })
 
 

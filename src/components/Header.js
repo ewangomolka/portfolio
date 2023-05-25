@@ -1,14 +1,14 @@
 import React from 'react';
 import {Link} from "react-router-dom";
 import styled from "styled-components";
-import {FaLinkedin, FaGithub, FaYoutube} from "react-icons/fa"
+import {FaLinkedin, FaGithub, FaYoutube, FaGoogle} from "react-icons/fa"
 
 const Header = () => {
 
     const Links = styled.div`
         display: flex;
         justify-content: end;
-        justify-content: space-between;
+        justify-content: space-around;
         padding-right: 50px;
         padding-left: 50px;
         padding-bottom: 50px;
@@ -22,20 +22,20 @@ const Header = () => {
         transition: .3s ease;
         &:hover{
             color: white;
-            transform: scale(1.3);
-            -webkit-transform: scale(1.3);
-            -ms-transform: scale(1.3);
             cursor: pointer;
         }
     `
     const Container = styled.div`
         background-color: rgb(101, 178, 223);
         padding: 5px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
     `
     const A = styled.a`
         color: black;
-        text-decoration: none;
         padding: 5px;
+        text-decoration: none;
         transition: .3s ease;
         &:hover{
             color: white;
@@ -45,7 +45,7 @@ const Header = () => {
     return ( 
         <Container>
         <h1>Ewan Gomolka</h1>
-        <h2><Socials><FaLinkedin/></Socials>
+        <h2><Socials href="https://www.linkedin.com/in/ewan-gomolka-35420b277/"><FaLinkedin/></Socials>
         <Socials href="https://github.com/ewangomolka"><FaGithub/></Socials>
         <Socials><FaYoutube/></Socials></h2>
         <Links>
