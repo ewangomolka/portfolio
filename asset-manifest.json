@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/G36_deploy_portfolio/static/css/main.fcd004e5.css",
-    "main.js": "/G36_deploy_portfolio/static/js/main.cd4a0e76.js",
+    "main.css": "/G36_deploy_portfolio/static/css/main.15fc9985.css",
+    "main.js": "/G36_deploy_portfolio/static/js/main.74e34440.js",
     "static/js/787.1ed0c42c.chunk.js": "/G36_deploy_portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Make_Meme_Better.png": "/G36_deploy_portfolio/static/media/Make_Meme_Better.2721f9540de8c77383f4.png",
     "static/media/pokemorty.png": "/G36_deploy_portfolio/static/media/pokemorty.b0f39715b9ddc711fdfe.png",
@@ -13,12 +13,12 @@
     "static/media/headshot.jpg": "/G36_deploy_portfolio/static/media/headshot.419c53a546f0924fac53.jpg",
     "static/media/placeholder.jpeg": "/G36_deploy_portfolio/static/media/placeholder.3c0a422b9d39f22e1be7.jpeg",
     "index.html": "/G36_deploy_portfolio/index.html",
-    "main.fcd004e5.css.map": "/G36_deploy_portfolio/static/css/main.fcd004e5.css.map",
-    "main.cd4a0e76.js.map": "/G36_deploy_portfolio/static/js/main.cd4a0e76.js.map",
+    "main.15fc9985.css.map": "/G36_deploy_portfolio/static/css/main.15fc9985.css.map",
+    "main.74e34440.js.map": "/G36_deploy_portfolio/static/js/main.74e34440.js.map",
     "787.1ed0c42c.chunk.js.map": "/G36_deploy_portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcd004e5.css",
-    "static/js/main.cd4a0e76.js"
+    "static/css/main.15fc9985.css",
+    "static/js/main.74e34440.js"
   ]
 }
