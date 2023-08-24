@@ -1,0 +1,41 @@
+.nav-container {
+    margin: 0;
+    background-color: rgb(255, 255, 255, 0.7);
+    padding: 0.1px;
+}
+
+.title {
+    font-family: Changa One;
+    color: rgb(0, 0, 0, 0.75);
+    letter-spacing: 1px;
+}
+
+.links {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+}
+
+.links > li {
+    animation-name: animateIn;
+    animation-duration: 600ms;
+    animation-delay: calc(var(--animation-order) * .5s);
+    animation-fill-mode: both;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes animateIn {
+    0% {
+      opacity: 0;
+      transform: scale(0.6) translateY(-8px);
+    }
+    
+    100% {
+      opacity: 1;
+    }
+}
+
+.links > li > a {
+    text-decoration: none;
+    color: rgb(0, 0, 0, 0.75);
+}
