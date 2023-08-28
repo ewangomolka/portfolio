@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, } from 'react-router-dom';
 import NavBar from '../components/NavBar';
 import Home from '../components/Home';
 import Contact from '../components/Contact';
+import Experience from '../components/Experience';
 
 
 const MainContainer = () => {
@@ -15,6 +16,7 @@ const MainContainer = () => {
             <NavBar/>
                 <Routes>
                     <Route path='/portfolio' element={<Home/>}/>
+                    <Route path='/experience' element={<Experience/>}/>
                     <Route path='/contact' element={<Contact/>}/>
                 </Routes>
             </Router>
