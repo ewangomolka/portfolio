@@ -4,6 +4,7 @@ import NavBar from '../components/NavBar';
 import Home from '../components/Home';
 import Contact from '../components/Contact';
 import Experience from '../components/Experience';
+import Projects from '../components/Projects';
 
 
 const MainContainer = () => {
@@ -17,6 +18,7 @@ const MainContainer = () => {
                 <Routes>
                     <Route path='/portfolio' element={<Home/>}/>
                     <Route path='/experience' element={<Experience/>}/>
+                    <Route path='/projects' element={<Projects/>}/>
                     <Route path='/contact' element={<Contact/>}/>
                 </Routes>
             </Router>

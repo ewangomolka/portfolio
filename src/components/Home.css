@@ -10,7 +10,7 @@
     border-radius: 20px;
     padding: 30px;
     background-image: linear-gradient(to right, rgb(10, 151, 118, 0.4), transparent);
-    animation: fadeInAnimation ease 3s;
+    animation: fadeInAnimation ease 2s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 }

@@ -63,6 +63,10 @@
     text-decoration: none;
 }
 
+.description > i {
+    text-decoration: none;
+}
+
 @media screen and (max-width: 575px) {
 
     .contact-items {
